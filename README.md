@@ -26,16 +26,7 @@ You can learn more about the courses here:
 #6 - Create Joke Controller
 
 #7 - Create the view layer      
+
+#8 - Add Custom SpringBoot banner
           
-```
-
-## Topics 
-
-```
-#1 - Use Spring initialzr to start a new project 
-     [https://start.spring.io/]
-     
-#2 - Adding Gradle dependencies 
-     implementation 'guru.springframework:chuck-norris-for-actuator:2.4.0'
-     
 ```
