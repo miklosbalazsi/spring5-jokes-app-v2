@@ -18,5 +18,20 @@ You can learn more about the courses here:
      
 #2 - Adding Gradle dependencies 
      implementation 'guru.springframework:chuck-norris-for-actuator:2.4.0'
+   
+#3 - Create Joke Service
+     JokeService.java
+     JokeServiceImpl.java
+          
+```
+
+## Topics 
+
+```
+#1 - Use Spring initialzr to start a new project 
+     [https://start.spring.io/]
+     
+#2 - Adding Gradle dependencies 
+     implementation 'guru.springframework:chuck-norris-for-actuator:2.4.0'
      
 ```
