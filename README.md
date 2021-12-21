@@ -19,9 +19,13 @@ You can learn more about the courses here:
 #2 - Adding Gradle dependencies 
      implementation 'guru.springframework:chuck-norris-for-actuator:2.4.0'
    
-#3 - Create Joke Service
+#4 - Create Joke Service
      JokeService.java
      JokeServiceImpl.java
+     
+#6 - Create Joke Controller
+
+#7 - Create the view layer      
           
 ```
 
